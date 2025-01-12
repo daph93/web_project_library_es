@@ -304,6 +304,8 @@
 }
 
 .membership__steps {
+  justify-content: center;
+  gap: 40px;
   list-style-type: none;
   padding: 0;
   margin: 100px 0 0;
